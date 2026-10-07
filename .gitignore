@@ -1,0 +1,11 @@
+# Harici kütüphaneler ve derleme çıktıları
+sfml/
+bin/
+build/
+*.exe
+*.dll
+*.o
+*.a
+
+# VS Code ayarları
+.vscode/
